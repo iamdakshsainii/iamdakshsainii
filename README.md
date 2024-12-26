@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Daksh Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="right">
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="Your GIF" width="300" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdakshsainii&label=Profile%20views&color=0e75b6&style=flat" alt="iamdakshsainii" /> </p>
 
@@ -25,7 +28,7 @@
 <a href="https://auth.geeksforgeeks.org/user/sainidatksg/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sainidatksg/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
+<h3 align="left">Languages and Tools:</h3><br><br>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -38,8 +41,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdakshsainii&show_icons=true&locale=en&layout=compact" alt="iamdakshsainii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdakshsainii&show_icons=true&locale=en" alt="iamdakshsainii" /></p>
 
