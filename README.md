@@ -15,8 +15,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development and DSA in Java**  
 - 👨‍💻 My projects are available at [https://linktr.ee/iamdakshsainii](https://linktr.ee/iamdakshsainii)  
-- 📫 Reach me at **iamdakshsainii@gmail.com**  
-- ⚡ Fun fact: **I can debug faster with coffee ☕**  
+- 📫 Reach me at **sainidaksh70@gmail.com**  
+- ⚡ Fun fact: **I can debug faster with tea ☕**  
 
 ---
 
